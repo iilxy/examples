@@ -60,3 +60,4 @@ func main() {
 // `go build` is used instead of `go run main.go` as the example comments says
 // otherwise you will get compile errors, this is a Go thing;
 // because you have multiple files in the `package main`.
+
